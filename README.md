@@ -1,4 +1,11 @@
-# iOS Currency Converter
+## Demo Video
+<div align="center">
+
+[🎥 Demo Video](https://github.com/user-attachments/assets/e0377895-6a21-4336-be1d-8334889036a0)
+
+</div>
+
+# Excange Rate Converter
 
 
 
@@ -14,12 +21,7 @@ This iOS application demonstrates a production-ready currency converter implemen
 - Extensive unit and integration testing
 - Protocol-oriented design
 - SOLID principles implementation
-## Demo Video
-<div align="center">
 
-[🎥 Demo Video](https://github.com/user-attachments/assets/e0377895-6a21-4336-be1d-8334889036a0)
-
-</div>
 ## Features
 
 - Real-time currency conversion
