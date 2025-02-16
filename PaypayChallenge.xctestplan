@@ -1,0 +1,38 @@
+{
+  "configurations" : [
+    {
+      "id" : "F27ECD81-D6C2-4B98-B9A8-8536ECFE5F3A",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:PaypayChallenge.xcodeproj",
+      "identifier" : "D1A6B88E2D60DB7100EAAA1A",
+      "name" : "PaypayChallenge"
+    },
+    "testExecutionOrdering" : "random"
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:PaypayChallenge.xcodeproj",
+        "identifier" : "D1A6B8A42D60DB7200EAAA1A",
+        "name" : "PaypayChallengeTests"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:PaypayChallenge.xcodeproj",
+        "identifier" : "D1A6B8AE2D60DB7200EAAA1A",
+        "name" : "PaypayChallengeUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
