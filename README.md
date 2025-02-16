@@ -1,5 +1,8 @@
 # iOS Currency Converter
 
+
+
+
 ## Summary
 
 This iOS application demonstrates a production-ready currency converter implementing Clean Architecture with MVVM pattern. It features real-time currency conversion using Open Exchange Rates API, offline support through local caching, and comprehensive unit testing. The project showcases modern iOS development practices including:
@@ -11,7 +14,12 @@ This iOS application demonstrates a production-ready currency converter implemen
 - Extensive unit and integration testing
 - Protocol-oriented design
 - SOLID principles implementation
+## Demo Video
+<div align="center">
 
+[🎥 Demo Video](https://github.com/user-attachments/assets/e0377895-6a21-4336-be1d-8334889036a0)
+
+</div>
 ## Features
 
 - Real-time currency conversion
@@ -19,6 +27,9 @@ This iOS application demonstrates a production-ready currency converter implemen
 - Automatic rate updates
 - Support for all major world currencies
 - Clean and intuitive UI
+
+
+
 
 ## Dependencies
 
